@@ -7,7 +7,7 @@ p{
 }
 .link{
     text-decoration: none;
-    border-radius: 30%;
+    border-radius: 30px;
     background-image: linear-gradient(tomato ,orange);
     padding: 20px 30px;
     text-align: center;
@@ -55,18 +55,24 @@ display: flex;
 margin-left: 5%;
 
 }
-.recipie1{
-width: 100%;
+.recipie{
+width: 25%;
 height: 40%;
 margin-right: 5%;
 margin-left: 5%;
+display: flex;
 
 
 
 }
 .information{
+ border-radius: 30px;
+margin-right: 10%;
+margin-left: 10%;
+box-shadow: 10px 10px gray;
+
  
- margin-top: 5px;
+ 
 
 }
 
