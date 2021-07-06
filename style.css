@@ -2,8 +2,18 @@ body{
 font-family: 'Titillium Web', sans-serif;
 }
 p{
-    font-size: 30px;
+    font-size: 20px;
     
+}
+.link{
+    text-decoration: none;
+    border-radius: 40%;
+    background-color: orange;
+    padding: 20px 30px;
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+    display: inline-block;
 }
 span{
     color: orange;
@@ -16,6 +26,7 @@ h2{
 }
 .food{
     display: flex;
+    margin-left: 5%;
 }
 .image1 {
     border-radius: 40%;
@@ -39,29 +50,40 @@ background-image: url(images/shapes/Frame\ 57.jpg);
     font-size: 30px;
 }
 .title{
-background-image: url(cover.jpg);
-background-repeat: no-repeat;
-background-position: left;
 display: flex;
+margin-left: 5%;
 
 }
 .recipie1{
-    width: 20%;
-margin-right: 10%;
-margin-left: 10%;
+width: 20%;
+margin-right: 5%;
+margin-left: 5%;
 
 }
 
 .media{
     display:flex;
-    margin: 20%;
-    margin-left: 20%;
-    margin-right: 20%;
+   
 }
 .youtube{
+    margin: 10%;
    }
 .instragram{
+    margin: 10%;
 }
 .facebook{
+margin:10%
+}
+.recipie1 p{
+    font-size: 20px;
+}
+.footer{
+background-color: black;
+display: 300px 400px;
+text-align: center;
+margin-left: 0;
+color: white;
+padding: 20px;
+
 
 }
