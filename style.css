@@ -38,3 +38,30 @@ background-image: url(images/shapes/Frame\ 57.jpg);
 .demo{
     font-size: 30px;
 }
+.title{
+background-image: url(cover.jpg);
+background-repeat: no-repeat;
+background-position: left;
+display: flex;
+
+}
+.recipie1{
+    width: 20%;
+margin-right: 10%;
+margin-left: 10%;
+
+}
+
+.media{
+    display:flex;
+    margin: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.youtube{
+   }
+.instragram{
+}
+.facebook{
+
+}
