@@ -1,3 +1,32 @@
 body{
 font-family: 'Titillium Web', sans-serif;
 }
+p{
+    font-size: 30px;
+    
+}
+span{
+    color: orange;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+.food{
+    display: flex;
+}
+.image1 {
+    border-radius: 40%;
+}
+.diet{
+    margin-top: 100px;
+}
+.about-me{
+display: flex;
+margin-top: 80px;
+background-image: url(images/shapes/Frame\ 57.jpg);
+
+
+}
